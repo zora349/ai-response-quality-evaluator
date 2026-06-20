@@ -46,10 +46,7 @@ ai-response-eval-project/
 │   └── charts/                   # 图表输出目录
 │
 ├── src/
-│   ├── main.py                   # 主程序入口
-│   ├── evaluator.py              # 评估逻辑
-│   ├── report_generator.py       # 报告生成逻辑
-│   └── chart_generator.py        # 图表生成逻辑
+│   ├── run_deepeval.py           # 自动分析评估数据脚本
 │
 ├── requirements.txt              # 项目依赖
 └── README.md                     # 项目说明文档
